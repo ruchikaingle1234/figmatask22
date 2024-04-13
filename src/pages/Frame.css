@@ -1,7 +1,7 @@
 .frame-child {
   position: absolute;
   top: 1775px;
-  left: 150px;
+  left: 0px;
   background: linear-gradient(
     180deg,
     #000,
@@ -9,7 +9,7 @@
     #000
   );
   background: cover;
-  width: 1400px;
+  width: 100%;
   height: 1754px;
 }
 
